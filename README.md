@@ -1,3 +1,20 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>knifeloop</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+      background-color: black;
+      color: white;
+    }
+  </style>
+</head>
 
 <h1>Séamus O´Donnell </h1>
 
@@ -7,9 +24,8 @@ I work with <a href="http://senderberlin.org/colaboradio/" target="_blank">CoLab
 <p>The oldest collaborative project I am working on is <a href="http://www.noisiv.org/" target="_blank">noisiV</a>, with <a href="http://androvirus.noweb.org/" target="_blank">Androvirus</a>. Started in Berlin in 1999, it has been a long distance thing since 2002. <br />
 Other current collaborations include <a href="https://soundcloud.com/krauchen" target="_blank">Krauchen</a> and a couple of A/V projects with <a href="http://hexler.net/lab/oratory/" target="_blank">H3XL3R</a>. </p>
 
-<p><img class="left" src="img/maastricht.jpg" /><br />
 
-  </p>
+
 <p>"Right now I am most interested in the live-sampling of sounds and noises, whether acoustic or electronic, the repetition and manipulation of these samples and the discovery of new sounds on this journey."</p>
 <p> Current set goes something like this:
   <br>
@@ -18,4 +34,3 @@ Other current collaborations include <a href="https://soundcloud.com/krauchen" t
   the years has been involved in many different temporary radio projects (such as PiRadio, RebootFM, Radio Tesla, Funkwelle and currently 88vier).<br />
 
   
-</div>
