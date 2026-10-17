@@ -1,2 +1,25 @@
-[index.php](https://github.com/user-attachments/files/33598691/index.php)
-[lifeloop.css](https://github.com/user-attachments/files/33598692/lifeloop.css)
+[index.html](https://github.com/user-attachments/files/33598875/index.html)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hi, it's me!</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+      background-color: white;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi, it's me!</h1>
+</body>
+</html>
