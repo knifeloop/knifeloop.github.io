@@ -1,18 +1,4 @@
 
-<br />
-<br />
-<br />
-<h1>Disclaimer
-</h1>
-<br />
-
-<p>
-Das Landgericht Hamburg hat mit Urteil vom 12.05.1998 entschieden, dass durch die Ausbringung eines Links die Inhalte der gelinkten Seite ggf. mit zu verantworten sind. Dies kann - so das LG - nur dadurch verhindert werden, dass sich der Betreiber einer Website ausdr�cklich von diesen Inhalten distanziert.</p>
-<p>
-lifeloop.org verweist mit Links zu anderen Seiten im Internet. F�r diese F�lle gilt: Die Betreiber von lost-shadows.net erkl�ren ausdr�cklich, dass sie keinerlei Einfluss auf die Gestaltung und die Inhalte der gelinkten und eingespielten Seiten haben. Aus diesem Grunde distanzieren sich die Betreiber von lost-shadows.net und deren Partnerseiten ausdr�cklich von allen Inhalten aller gelinkten Seiten auf der Website und machen sich diese Inhalte nicht zu Eigen. Diese Erkl�rung gilt f�r alle Seiten, zu denen Links f�hren. </p>
-
-<div id="left-column">
-
 <h1>Séamus O´Donnell </h1>
 
 <p>Since 1999 I am working as artist and organiser on different audio art projects. Solo or collaborative works (for performance or installations) can include FM radio experiments with receivers and self built mini-transmitters; reel-to-reel tape machine loop or relay set ups; and a live set which can contain any mix of manipulated field recordings, self made devices, amplified objects and magnetic fields as well as other more traditional instruments and voice.
@@ -31,29 +17,6 @@ Other current collaborations include <a href="https://soundcloud.com/krauchen" t
 <p>O'Donnell's work includes numerous projects in the field of sound and media art, experimental radio and live improvisation. He is Co-initiator of the series of experimental music concerts in Salon Bruit Berlin, which regularly organizes events since 2002 and over
   the years has been involved in many different temporary radio projects (such as PiRadio, RebootFM, Radio Tesla, Funkwelle and currently 88vier).<br />
   
-</div>
-
-
-<div id="right-column">
-  <h2>News</h2>
-  <p><strong>Two new tape releases</strong><br />
-    A cassette tape of some of my work with reel-to-reel machines released on  <a href="http://rohsprod.free.fr/K7HS/K7HS014.htm" target="_blank">Rohsprod</a>.<br />
-  and a track on the compilation Ruins-Urbe-Berlin. Check the <a href="index.php?page=releases">Release</a> page for more details.</p>
-  <p><strong>11.10.13<br />
-    collective improvisation</strong><br />
-    Together with other members of Salon Bruit we join our Grundtvig partners
-  at the <a href="http://www.gafferfest.com/" target="_blank">GafferFest</a>, Lyon, France </p>
-  <p align="left"><strong>16.10.13<br />
-    noisiV reunion</strong><br />
-  Solo and with <a href="http://noisiv.org/" target="_blank">noisiV</a> at Les Mercredis c'est permis, <a href="http://www.totem-totem.com/agenda/140-16-10-2013-le-mercredi-c-est-permis" target="_blank">Totem</a>, Nancy, France </p>
-  <p align="left"><strong>22.10.13<br />
-    live 
-    on air and stream</strong><br />
-  Presenting the <a href="http://senderberlin.org/" target="_blank">Supersonic</a> radio show on <a href="http://www.88vier.net/" target="_blank">88.4FM</a>, Berlin</p>
-  <p align="left"><strong>05-18.12.13<br />
-    Installation in Ireland</strong><br />
-  at '<a href="http://janehughes.ie/index.php/neither-here-nor-there-contemporary-irish-at-grimmuseum-16-3-21-4-2013/" target="_blank">neither here nor there</a>' exhibition, <a href="http://www.galwayartscentre.ie/" target="_blank">Galway Arts Centre</a>, Ireland </p>
-  <p align="left">&nbsp;</p>
 </div>
 
 <head>
@@ -135,18 +98,6 @@ body {
     </div>
 </div>
 
-<!-- footer -->
-<div id="footer">
-<div id="footerbox">
-<a href="index.php?page=disclaimer"><span>Disclaimer</span></a> 
-        
-        
-
-
-</div>
-</div>
-
-<!-- end page structure -->
 </body>
 </html>
 @charset "utf-8";
