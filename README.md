@@ -2,20 +2,32 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>knifeloop</title>
-  <style>
-    body {
-      margin: 0;
-      height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      font-family: Arial, sans-serif;
-      background-color: black;
-      color: white;
-    }
-  </style>
+ <style>
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    min-height: 100dvh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+
+    padding: 20px;
+  }
+</style>
+
 </head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
 <h1>Séamus O´Donnell </h1>
 
 <p>Since 1999 I am working as artist and organiser on different audio art projects. Solo or collaborative works (for performance or installations) can include FM radio experiments with receivers and self built mini-transmitters; reel-to-reel tape machine loop or relay set ups; and a live set which can contain any mix of manipulated field recordings, self made devices, amplified objects and magnetic fields as well as other more traditional instruments and voice.
