@@ -64,8 +64,8 @@ footer a {
 <p><a href="https://spooksoi14.bandcamp.com/" target="_blank">Spook Soi 14</a> (with Kenneth Hyttel)</p>
 <p><a href="https://e-09.bandcamp.com/" target="_blank">E-09</a> (with Alexandra Macia)</p>
 <p><a href="https://tippex.bandcamp.com/" target="_blank">TippEx Thinner</a> (with Marc Fantini and Nico Petitdan) </p>
-
-<h3>Documentation</h3>
+<p>
+<h3>Documentation</h3></p>
 <p>On <a href="https://www.youtube.com/playlist?list=PL8Ktx2QFbXRwC2VmOPbmY91aI9c1yG1ut" target="_blank">youtube</a> there are a lot of clips of mostly live shows, solo and collaborations.</p>
 <p>On <a href="https://vimeo.com/knifeloop" target="_blank">Vimeo</a> there are a mix of videos documenting live shows, installations and works with video artists.</p>
 <p>The <a href="https://soundcloud.com/knifeloop" target="_blank">soundcloud</a> page is a collection of mini-releases, off-shoots and live recordings.</p>
