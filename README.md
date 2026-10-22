@@ -55,7 +55,7 @@ footer a {
     
 <p>This page is here to gather, in a simple form, the different links to audio and video documentation as well as various collaborative Bandcamp releases. My older page, <a href="https://lifeloop.org/" target="_blank">lifeloop.org</a>, has not been updated since the start of Covid. Go check it out if you want more details of the past. I think some of the old radio links are no longer valid. I can't access it to change them. That's why we're here!</p>
 
-<p>
+
 <h3>Releases</h3>
 
 
