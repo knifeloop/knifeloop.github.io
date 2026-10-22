@@ -58,12 +58,11 @@ footer a {
 <p>
 <h3>Releases</h3>
 
-<a href="https://knifeloop.bandcamp.com/" target="_blank">Solo and noisiV</a> (with Joffrey Guillon)
-<a href="https://e-09.bandcamp.com/" target="_blank">E-09</a> (with Alexandra Macia)
-<a href="https://tippex.bandcamp.com/" target="_blank">TippEx Thinner</a> (with Marc Fantini and Nico Petitdan) 
-<a href="https://spooksoi14.bandcamp.com/" target="_blank">Spook Soi 14</a> (with Kenneth Hyttel)
 
-</p>
+<p><a href="https://knifeloop.bandcamp.com/" target="_blank">Solo and noisiV</a> (with Joffrey Guillon)</p>
+<p><a href="https://e-09.bandcamp.com/" target="_blank">E-09</a> (with Alexandra Macia)</p>
+<p><a href="https://tippex.bandcamp.com/" target="_blank">TippEx Thinner</a> (with Marc Fantini and Nico Petitdan) </p>
+<p><a href="https://spooksoi14.bandcamp.com/" target="_blank">Spook Soi 14</a> (with Kenneth Hyttel)</p>
 
 
   </main>
