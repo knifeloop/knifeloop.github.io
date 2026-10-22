@@ -51,7 +51,8 @@ footer a {
 
   <main>
     <h2>Seamus O'Donnell</h2>
-
+    
+<p>Since 1999 I am working as artist and organiser on different audio art projects and Free Radio in Berlin. Performances can include FM radio experiments with DIY mini-transmitters, reel-to-reel tape machines, manipulated field recordings, self made devices, amplified objects and magnetic fields as well as other more traditional instruments and voice. </p>
     
 <p>This page is here to gather, in a simple form, the different links to audio and video documentation as well as various collaborative Bandcamp releases. My older page, <a href="https://lifeloop.org/" target="_blank">lifeloop.org</a>, has not been updated since the start of Covid. Go check it out if you want more details of the past. I think some of the old radio links are no longer valid. I can't access it to change them. That's why we're here!</p>
 
