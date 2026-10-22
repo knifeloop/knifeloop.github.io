@@ -50,7 +50,7 @@ footer a {
 <body>
 
   <main>
-    <h1>Séamus O'Donnell</h1>
+    <h2>Seamus O'Donnell</h2>
 
     
 Since 1999 I am working as artist and organiser on different audio art projects. Solo or collaborative works (for performance or installations) can include FM radio experiments with receivers and self built mini-transmitters; reel-to-reel tape machine loop or relay set ups; and a live set which can contain any mix of manipulated field recordings, self made devices, amplified objects and magnetic fields as well as other more traditional instruments and voice. As an organiser I work with the registered association, Salon Bruit e.V., a platform for experimental music. I work with CoLaboRadio as presenter and programmer on the local frequency 88.4FM. I live in Berlin.
