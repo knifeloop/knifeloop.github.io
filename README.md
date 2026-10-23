@@ -68,9 +68,15 @@ footer a {
 <p>On <a href="https://www.youtube.com/playlist?list=PL8Ktx2QFbXRwC2VmOPbmY91aI9c1yG1ut" target="_blank">youtube</a> there are a lot of clips of mostly live shows, solo and collaborations.</p>
 <p>On <a href="https://vimeo.com/knifeloop" target="_blank">Vimeo</a> there are a mix of videos documenting live shows, installations and works with video artists.</p>
 <p>The <a href="https://soundcloud.com/knifeloop" target="_blank">soundcloud</a> page is a collection of mini-releases, off-shoots and live recordings.</p>
-<p>On the amazing and ancient <a href="https://archive.org/details/lifeloop" target="_blank">archive.org</a> there is the oldest of my documentations - audio, video, collaborations.</p>
+<p>On the amazing and ancient <a href="https://archive.org/details/lifeloop" target="_blank">archive.org</a> there are the oldest of my documentations - audio, video, collaborations.</p>
 <br/>
+  <br>
+<h3>Radio</h3>
 
+<p>The fight for a Free Radio in Berlin has been going on for a while now and has taken on many forms. It culminated in being granted a shared local frequency in 2010 through to 2025 when the umbrella group Freie Radios Berlin Brandenburg was moved from FM to DAB+. My first radio experience was in 1999 in the attic space of Tacheles. In 2002 I co-founded radiokampagne and in 2011 colaboradio. While making radio shows was also a part of my radio life in the past I am now only involved in the organisational aspect of things.</p>
+
+<p><a href="https://www.colaboradio.org/" target="_blank">Cola Bora Dio</a> broadcasts every Tuesday from 6am until 6am on Wednesday on DAB+ in Berlin and Brandenburg (look for FRBB on the screen). It is part of the <a href="https://fr-bb.org/" target="_blank">Freie Radios Berlin Brandenburg</a> umbrella group.</p>
+<br/>
   </main>
 
   <footer>
